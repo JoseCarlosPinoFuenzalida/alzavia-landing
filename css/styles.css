@@ -144,7 +144,7 @@ p { margin: 0 0 1em; color: var(--ink-soft); }
   display: flex;
   align-items: center;
   gap: 24px;
-  height: 68px;
+  height: 84px;
 }
 
 .logo {
@@ -153,7 +153,7 @@ p { margin: 0 0 1em; color: var(--ink-soft); }
 }
 
 .logo-img {
-  height: 30px;
+  height: 46px;
   width: auto;
   display: block;
 }
